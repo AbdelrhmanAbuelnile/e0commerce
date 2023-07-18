@@ -11,7 +11,6 @@ module.exports = {
         'Tertiary': '#60695C',
         'Dark': '#1A1F16',
         'Placeholder': 'rgba(26, 31, 22, 0.5)',
-        'White': '#fff',
         'Danger': '#E5252C',
         'Warning': '#E6D117',
         'Grayish': '#DADADA'
